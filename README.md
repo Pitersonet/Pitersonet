@@ -1,7 +1,12 @@
 ## Olá! Eu sou Peterson Alves dos Santos 👏 
-Sou estudante na Digital House Brasil. 👨🏾‍🎓
-<br>
-Curso: Certified Tech Developer -  Desenvolvimento WEB 👨🏾‍💻
+ Sou estudante de Engenharia da Computação e do curso<br>
+      -Certified Tech Developer pela Digital House.
+
+<div align="center">
+  <a href="https://github.com/pitersonet">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pitersonet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitersonet&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
 Essas são minhas skills até o momento:
 <br>HTML5 - Iniciante
@@ -20,12 +25,6 @@ Essas são minhas skills até o momento:
 <img align="left" width="60" height="40" src="https://img2.gratispng.com/20180529/hwx/kisspng-software-framework-network-performance-software-de-mechanical-gear-5b0d6932cb66e4.2933447315276055548331.jpg"><br>
 <br>Banco de dados - Iniciante
 <img align="left" width="40" height="40" src="https://img2.gratispng.com/20190212/hwz/kisspng-cloud-database-database-server-flat-file-oracle-da-data-base-server-svg-png-icon-free-download-5229-5c626aab2098a8.3594180915499537071335.jpg"><br>
-
-<div align="center">
-  <a href="https://github.com/pitersonet">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pitersonet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitersonet&layout=compact&langs_count=10&theme=dark"/>
-</div>
   
   ##
  
