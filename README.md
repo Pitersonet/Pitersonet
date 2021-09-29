@@ -1,6 +1,6 @@
 ## Olá! Eu sou Peterson Alves dos Santos 👏 
- Sou estudante de Engenharia da Computação e do curso<br>
-      -Certified Tech Developer pela Digital House.
+ Estudante de Engenharia da Computação e do<br>
+ Curso - Certified Tech Developer pela Digital House.
 
 <div align="center">
   <a href="https://github.com/pitersonet">
