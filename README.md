@@ -1,4 +1,4 @@
-## Olá! Eu sou Peterson Alves dos Santos 👏 
+# Olá! Eu sou Peterson Alves dos Santos 👏 
  Estudante de Engenharia da Computação e do<br>
  Curso - Certified Tech Developer pela Digital House.
 
@@ -8,16 +8,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitersonet&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-Essas são minhas skills até o momento:
+## Skills até o momento:
 <br>HTML5 - Iniciante
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"><br>
 <br>CSS3 - Iniciante
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"><br>
-<br>JavasCript - Iniciante 
+<br>JavaScript - Iniciante 
 <img align="left" width="40" height="40" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"><br>
 <br>Python - Iniciante
 <img align="left" width="60" height="40" src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg"><br>
-<br>GIT/GitHub - Iniciante
+<br>Git/GitHub - Iniciante
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png"><br>
 <br>Node.js - Iniciante
 <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/37783914/134197235-9e1f72e8-728d-4a01-ad0b-daa2926dc06d.png"><br>
